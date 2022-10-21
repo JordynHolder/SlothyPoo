@@ -15,7 +15,7 @@ It should also perform these actions for the site Admin (Myself and SlothyPoo):
 - Allow for the Editing and Deleting of uploads
 
 # Current Production
-As of 10/21/2022 the website is capable of the following actions:
+As of 10/21/2022 the website is in version 0.1 and capable of the following actions:
 
 - Artist can Upload and Delete, but not edit
 - Main Page, Gallery, Site Manager, and superuser login are MVP'd
@@ -32,3 +32,9 @@ The following is yet to be completed:
 - Commission Page is navigatable but does nothing
 - TOS Page is navigatable but does nothing
 - Site Manager is incapable of editing, only Uploading and Deleting
+
+# Change Log
+
+### v0.1 Rough MVP
+~~~
+Absolute Bare Minimum achieved. Artwork can be uploaded, deleted, viewed, and filtered. 
