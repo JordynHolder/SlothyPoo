@@ -38,3 +38,4 @@ The following is yet to be completed:
 ### v0.1 Rough MVP
 ~~~
 Absolute Bare Minimum achieved. Artwork can be uploaded, deleted, viewed, and filtered. 
+~~~
